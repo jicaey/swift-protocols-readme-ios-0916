@@ -22,6 +22,7 @@ class Person {
     
 }
 
+
 let jim = Person(name: "Jim", height: 64.0, favoriteFood: "Pasta")
 
 print(jim.description)
